@@ -39,6 +39,5 @@ Class&Id suggester: HTML to CSS autocompletion;
 Cascadia code<br>
 <a href="https://github.com/microsoft/cascadia-code" target="_blank">Download here</a>
 <p>Make sure to download in a zip file because it is a github repo</p>
-
-<h1>________________________________________________________________________________________________________________</h1>
+~----------------~End~----------------~
 <h1>Happy Journey!</h1>
