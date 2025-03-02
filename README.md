@@ -1,5 +1,5 @@
 # MySettings
-Hello there! these are my settngs of my VS Code setup
+Hello there! these are my settings of my VS Code setup
 
 
 <h1>Wallpaper</h1>
