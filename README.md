@@ -32,6 +32,8 @@ Formatter: Beautify css/sass/scss/less;<br>
 Transparentation Theme: GlassIt-VSC;<br>
 File Icon: Material Icon Theme;<br>
 Live: Live Preview,Live Server;<br>
+Errorinder: ErrorLens;
+Class&Id suggester: HTML to CSS autocompletion;
 
 <h2>Font</h2>
 Cascadia code<br>
