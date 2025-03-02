@@ -9,32 +9,32 @@ because i use a transparent effects</p>
 
 <h1>General Settngs</h1>
 
-for settings.json file:-
-<i>{
-  "workbench.iconTheme": "material-icon-theme",
-  "editor.formatOnSave": true,
-  "errorLens.onSave": true,
-  "editor.formatOnType": true,
-  "editor.cursorBlinking": "smooth",
-  "glassit.alpha": 220,
-  "workbench.colorTheme": "Ayu Mirage",
-  "editor.fontSize": 16,
-  "editor.fontFamily": "'cascadia code'",
-  "editor.fontLigatures": true,
-  "editor.cursorSmoothCaretAnimation": true,
-  "editor.cursorStyle": "block",
+for settings.json file:-<br>
+<i>{<br>
+  "workbench.iconTheme": "material-icon-theme",<br>
+  "editor.formatOnSave": true,<br>
+  "errorLens.onSave": true,<br>
+  "editor.formatOnType": true,<br>
+  "editor.cursorBlinking": "smooth",<br>
+  "glassit.alpha": 220,<br>
+  "workbench.colorTheme": "Ayu Mirage",<br>
+  "editor.fontSize": 16,<br>
+  "editor.fontFamily": "'cascadia code'",<br>
+  "editor.fontLigatures": true,<br>
+  "editor.cursorSmoothCaretAnimation": true,<br>
+  "editor.cursorStyle": "block",<br>
 }</i>
 
 <h1>Extensions</h1>
 
-Theme: Ayu,Material Theme-Free,Tokyo Night;
-Formatter: Beautify css/sass/scss/less;
-Transparentation Theme: GlassIt-VSC;
-File Icon: Material Icon Theme;
-Live: Live Preview,Live Server;
+Theme: Ayu,Material Theme-Free,Tokyo Night;<br>
+Formatter: Beautify css/sass/scss/less;<br>
+Transparentation Theme: GlassIt-VSC;<br>
+File Icon: Material Icon Theme;<br>
+Live: Live Preview,Live Server;<br>
 
 <h2>Font</h2>
-Cascadia code
+Cascadia code<br>
 <a href="https://github.com/microsoft/cascadia-code">Download here</a>
 <p>Make sure to download in a zip file because it is a github repo</p>
 
