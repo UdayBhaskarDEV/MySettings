@@ -5,7 +5,7 @@ Hello there! these are my settngs of my VS Code setup
 <h1>Wallpaper</h1>
 <p><big>Why Wallpapers?</big><br>
 because i use a transparent effects</p>
-<a href="https://www.freepik.com/free-vector/night-ocean-landscape-full-moon-stars-shine_17740155.htm#fromView=keyword&page=1&position=4&uuid=c56f4aaa-22e3-40e6-a21e-de868c31530b&query=Desktop+Wallpaper">Download here</a>
+<a href="https://www.freepik.com/free-vector/night-ocean-landscape-full-moon-stars-shine_17740155.htm#fromView=keyword&page=1&position=4&uuid=c56f4aaa-22e3-40e6-a21e-de868c31530b&query=Desktop+Wallpaper" target=_blank>Download here</a>
 
 <h1>General Settngs</h1>
 
@@ -35,7 +35,7 @@ Live: Live Preview,Live Server;<br>
 
 <h2>Font</h2>
 Cascadia code<br>
-<a href="https://github.com/microsoft/cascadia-code">Download here</a>
+<a href="https://github.com/microsoft/cascadia-code" target=_blank>Download here</a>
 <p>Make sure to download in a zip file because it is a github repo</p>
 
 <h1>________________________________________________________________________________________________________________</h1>
