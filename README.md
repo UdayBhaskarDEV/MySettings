@@ -40,5 +40,6 @@ Cascadia code, JetBrains Mono<br>
 <a href="https://github.com/microsoft/cascadia-code" target="_blank">Download here (Cascadia Code)</a> <br>
 <a href="https://www.jetbrains.com/lp/mono/">Download here (JetBrains Mono)
 <p>Make sure to download in a zip file because it is a github repo</p>
-~----------------~End~----------------~
+  
+<h1>~----------------~End~----------------~</h1>
 <h1>Happy Journey!</h1>
