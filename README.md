@@ -19,7 +19,7 @@ for settings.json file:-<br>
   "glassit.alpha": 220,<br>
   "workbench.colorTheme": "Ayu Mirage",<br>
   "editor.fontSize": 16,<br>
-  "editor.fontFamily": "'cascadia code'",<br>
+  "editor.fontFamily": "'Jetbrain Mono'",<br>
   "editor.fontLigatures": true,<br>
   "editor.cursorSmoothCaretAnimation": true,<br>
   "editor.cursorStyle": "block",<br>
@@ -36,7 +36,7 @@ Errorinder: ErrorLens;
 Class&Id suggester: HTML to CSS autocompletion;
 
 <h2>Font</h2>
-Cascadia code<br>
+Cascadia code, JetBrains Mono<br>
 <a href="https://github.com/microsoft/cascadia-code" target="_blank">Download here</a>
 <p>Make sure to download in a zip file because it is a github repo</p>
 ~----------------~End~----------------~
